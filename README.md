@@ -3,3 +3,5 @@
 <strong><big>See [deepdive.stanford.edu](http://deepdive.stanford.edu).</big></strong>
 
 Licensed under [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt).
+
+This branch contains the DeepDive system used in the paper "Building a Large-scale Multimodal Knowledge Base for Visual Question Answering" [arXiv:1507.05670v1](http://arxiv.org/abs/1507.05670).
